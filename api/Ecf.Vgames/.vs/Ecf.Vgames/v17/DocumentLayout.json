@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2335A2-18CF-41C7-8FBF-61A88FEAACDD}|Ecf.Vgames\\Ecf.Vgames.csproj|c:\\users\\tgrandgirard\\documents\\git\\ecf-backend-api-vgames\\api\\ecf.vgames\\ecf.vgames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2335A2-18CF-41C7-8FBF-61A88FEAACDD}|Ecf.Vgames\\Ecf.Vgames.csproj|solutionrelative:ecf.vgames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2335A2-18CF-41C7-8FBF-61A88FEAACDD}|Ecf.Vgames\\Ecf.Vgames.csproj|c:\\users\\tgrandgirard\\documents\\git\\ecf-backend-api-vgames\\api\\ecf.vgames\\ecf.vgames\\models\\gizmondo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2335A2-18CF-41C7-8FBF-61A88FEAACDD}|Ecf.Vgames\\Ecf.Vgames.csproj|solutionrelative:ecf.vgames\\models\\gizmondo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2335A2-18CF-41C7-8FBF-61A88FEAACDD}|Ecf.Vgames\\Ecf.Vgames.csproj|c:\\users\\tgrandgirard\\documents\\git\\ecf-backend-api-vgames\\api\\ecf.vgames\\ecf.vgames\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2335A2-18CF-41C7-8FBF-61A88FEAACDD}|Ecf.Vgames\\Ecf.Vgames.csproj|solutionrelative:ecf.vgames\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2335A2-18CF-41C7-8FBF-61A88FEAACDD}|Ecf.Vgames\\Ecf.Vgames.csproj|c:\\users\\tgrandgirard\\documents\\git\\ecf-backend-api-vgames\\api\\ecf.vgames\\ecf.vgames\\database\\gizmondosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2335A2-18CF-41C7-8FBF-61A88FEAACDD}|Ecf.Vgames\\Ecf.Vgames.csproj|solutionrelative:ecf.vgames\\database\\gizmondosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2335A2-18CF-41C7-8FBF-61A88FEAACDD}|Ecf.Vgames\\Ecf.Vgames.csproj|c:\\users\\tgrandgirard\\documents\\git\\ecf-backend-api-vgames\\api\\ecf.vgames\\ecf.vgames\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2335A2-18CF-41C7-8FBF-61A88FEAACDD}|Ecf.Vgames\\Ecf.Vgames.csproj|solutionrelative:ecf.vgames\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2335A2-18CF-41C7-8FBF-61A88FEAACDD}|Ecf.Vgames\\Ecf.Vgames.csproj|c:\\users\\tgrandgirard\\documents\\git\\ecf-backend-api-vgames\\api\\ecf.vgames\\ecf.vgames\\controllers\\gizmondoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2335A2-18CF-41C7-8FBF-61A88FEAACDD}|Ecf.Vgames\\Ecf.Vgames.csproj|solutionrelative:ecf.vgames\\controllers\\gizmondoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Migrations\\20240910083451_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecf.Vgames\\Migrations\\20240910083451_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Program.cs",
+              "RelativeDocumentMoniker": "Ecf.Vgames\\Program.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Program.cs",
+              "RelativeToolTip": "Ecf.Vgames\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:47:07.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GizmondosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Database\\GizmondosDbContext.cs",
+              "RelativeDocumentMoniker": "Ecf.Vgames\\Database\\GizmondosDbContext.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Database\\GizmondosDbContext.cs",
+              "RelativeToolTip": "Ecf.Vgames\\Database\\GizmondosDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:26:15.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GizmondosController.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Controllers\\GizmondosController.cs",
+              "RelativeDocumentMoniker": "Ecf.Vgames\\Controllers\\GizmondosController.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Controllers\\GizmondosController.cs",
+              "RelativeToolTip": "Ecf.Vgames\\Controllers\\GizmondosController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:38:44.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gizmondo.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Models\\Gizmondo.cs",
+              "RelativeDocumentMoniker": "Ecf.Vgames\\Models\\Gizmondo.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Models\\Gizmondo.cs",
+              "RelativeToolTip": "Ecf.Vgames\\Models\\Gizmondo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:16:09.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "Ecf.Vgames\\Models\\Publisher.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Models\\Publisher.cs",
+              "RelativeToolTip": "Ecf.Vgames\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:09:40.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "Ecf.Vgames\\Controllers\\PublishersController.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "Ecf.Vgames\\Controllers\\PublishersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:32:28.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240910083451_initial.cs",
+              "DocumentMoniker": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Migrations\\20240910083451_initial.cs",
+              "RelativeDocumentMoniker": "Ecf.Vgames\\Migrations\\20240910083451_initial.cs",
+              "ToolTip": "C:\\Users\\TGrandgirard\\Documents\\git\\ecf-backend-api-vgames\\api\\Ecf.Vgames\\Ecf.Vgames\\Migrations\\20240910083451_initial.cs",
+              "RelativeToolTip": "Ecf.Vgames\\Migrations\\20240910083451_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:34:51.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

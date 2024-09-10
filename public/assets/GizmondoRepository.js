@@ -2,7 +2,7 @@ import { GizmondoGame } from "./GizmondoGame.js";
 
 class GizmondoRepository 
 {
-    static apiUrl = '/api/';
+    static apiUrl = 'https://localhost:7138/api/';
 
     static async fetchGames()
     {
@@ -10,9 +10,8 @@ class GizmondoRepository
         let j = await r.json();
 
         for(let g of j) {
-            let pArray = g.publisher.split('/');
-            let pId = pArray[pArray.length -1];
-            let p = await GizmondoRepository.fetchPublisher(pId);
+            
+            let p = await GizmondoRepository.fetchPublisher(g.publisherId);
             g.publisher = p.name;
         }
 
